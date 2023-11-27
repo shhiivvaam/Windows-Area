@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Windows-Area/static/css/main.00d7cbd2.css",
+    "main.js": "/Windows-Area/static/js/main.f9782037.js",
+    "index.html": "/Windows-Area/index.html",
+    "main.00d7cbd2.css.map": "/Windows-Area/static/css/main.00d7cbd2.css.map",
+    "main.f9782037.js.map": "/Windows-Area/static/js/main.f9782037.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00d7cbd2.css",
+    "static/js/main.f9782037.js"
+  ]
+}
